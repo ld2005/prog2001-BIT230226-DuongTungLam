@@ -126,4 +126,6 @@ int main() {
 
     printf("Gia tri lon nhat la: %d\n", max);
 
+    return 0;
+
 }
